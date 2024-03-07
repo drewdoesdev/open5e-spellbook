@@ -8,7 +8,9 @@ export default StyleSheet.create({
       width: '100%'
     },
 
-    header: {
-        paddingLeft: 10,
+    titleWrapper: {
+        padding: 15,
+        borderBottomWidth: 1,
+        borderColor: "#333"
     }
   });
